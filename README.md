@@ -183,3 +183,6 @@ Los datos se guardan en `TallerORM/reservas.db`.
 Para comprobar la persistencia, salir con la opción `0`, ejecutar
 nuevamente el programa y consultar las salas y reservas. Los datos
 registrados deben mantenerse.
+
+PARA VER LAS PRUEBAS, TIENES QUE SUBIR EN LA TERMINAL, LOS MENSAJES DE ERRORES Y COMANDOS SE ENCUENTRAN ARRIBA DEL MENU.
+    
